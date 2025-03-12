@@ -1,0 +1,22 @@
+Epoch 1/20 - Avg Loss: 6.8142 - Accuracy: 6.69%
+Epoch 2/20 - Avg Loss: 5.6282 - Accuracy: 13.38%
+Epoch 3/20 - Avg Loss: 4.9362 - Accuracy: 15.32%
+Epoch 4/20 - Avg Loss: 4.4083 - Accuracy: 17.02%
+Epoch 5/20 - Avg Loss: 3.8832 - Accuracy: 19.82%
+Epoch 6/20 - Avg Loss: 3.3053 - Accuracy: 24.24%
+Epoch 7/20 - Avg Loss: 2.6462 - Accuracy: 37.41%
+Epoch 8/20 - Avg Loss: 1.9281 - Accuracy: 65.83%
+Epoch 9/20 - Avg Loss: 1.2867 - Accuracy: 83.46%
+Epoch 10/20 - Avg Loss: 0.8557 - Accuracy: 89.99%
+Epoch 11/20 - Avg Loss: 0.5991 - Accuracy: 94.12%
+Epoch 12/20 - Avg Loss: 0.4365 - Accuracy: 96.76%
+Epoch 13/20 - Avg Loss: 0.3257 - Accuracy: 98.26%
+Epoch 14/20 - Avg Loss: 0.2471 - Accuracy: 99.47%
+Epoch 15/20 - Avg Loss: 0.1902 - Accuracy: 99.88%
+Epoch 16/20 - Avg Loss: 0.1491 - Accuracy: 99.92%
+Epoch 17/20 - Avg Loss: 0.1191 - Accuracy: 99.96%
+Epoch 18/20 - Avg Loss: 0.0969 - Accuracy: 100.00%
+Epoch 19/20 - Avg Loss: 0.0803 - Accuracy: 100.00%
+Epoch 20/20 - Avg Loss: 0.0676 - Accuracy: 100.00%
+Model saved as 'financeModel.pkl'. Test Accuracy: 100.00%. Training completed.
+the group discovered murals depicting the primordial spirit of the : the group discovered murals depicting the primordial spirit of the sea—a monstrous yet majestic being, part water, part shadow, whose eyes burned with an eerie phosphorescence. The murals told a tale of a time when the sea reigned supreme, and the light of the Lantern was a bridge between the human world and the realm of the gods. The spirit, known as Nereus, was both protector and destroyer, tasked with maintaining the natural order. But as the group ventured deeper, the water grew
