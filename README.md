@@ -53,7 +53,7 @@ To avoid **overfitting**, **early stopping** is used. If the loss does not impro
    Run the following command in your terminal: 'pip install -r requirements.txt'
 
 2. **Run the Training**  
-   Start training by running: 'python trainMLP.py'
+   Start training by running: 'python trainPerceptron.py'
 
 ## To Run Inference:
 
@@ -61,4 +61,4 @@ To avoid **overfitting**, **early stopping** is used. If the loss does not impro
    Ensure dependencies are installed by running: 'pip install -r requirements.txt'
 
 2. **Run Inference**  
-   Execute inference by running: 'python inferenceMLP.py'
+   Execute inference by running: 'python inferencePerceptron.py'
